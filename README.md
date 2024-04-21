@@ -1,2 +1,2 @@
 # CodSoft
-It is for my intership purpuse
+This work was of my intership in CodeSoft
